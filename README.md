@@ -2,7 +2,7 @@
 projet d'estimation de prix a partir d'une BDD machine LEARNING
 
 
-# Projet d'analyse de données de voiture    projet GitHub en formation à Simplon :
+# Projet d'analyse de données de voiture     en formation à Simplon :
 
 ## Contexte du projet
 En tant que data scientist, j'ai travaillé sur un projet d'analyse de données de voiture. Le but était de récupérer une base de données, la nettoyer et l'analyser pour ensuite modéliser le problème avec une régression linéaire.
