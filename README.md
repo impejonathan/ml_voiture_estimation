@@ -23,6 +23,14 @@ J'ai créé une API FAST-API qui permet à un utilisateur de créer et supprimer
 J'ai ajouté une fonctionnalité à l'application Streamlit qui permet à l'utilisateur de créer une voiture à partir de son email et mot de passe.
 
 
+## les librairie utilisé 
+-    streamlit 
+-    pandas
+-    pickle
+-    numpy 
+-   sklearn
+-   fast-api
+
 # /////////////////////////////////////
 
 # Car Data Analysis Project    Here is an example of a README for your GitHub project in Simplon training:
