@@ -23,7 +23,7 @@ J'ai créé une API FAST-API qui permet à un utilisateur de créer et supprimer
 J'ai ajouté une fonctionnalité à l'application Streamlit qui permet à l'utilisateur de créer une voiture à partir de son email et mot de passe.
 
 
-## les librairie utilisé 
+## les librairies utiliser 
 -    streamlit 
 -    pandas
 -    pickle
