@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 import sqlite3
-from stream_prediction import predict
 from ajout_voiture import ajout
 
 
